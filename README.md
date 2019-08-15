@@ -14,7 +14,16 @@ I'd like to use the new [boutiques standard](https://boutiques.github.io/) to cr
 ## Tools I want to learn
 
   * Boutiques for wrapping tools
+  * pybids to parse BIDS datasets
   * Use Boutiques to generate a BIDS app
   * Use Boutiques to generate a CBRAIN app
   
 ## Deliverables 
+  * A new niak release
+  * An octave/matlab interface to pybids
+  * A (working) BIDS app
+  * A (working) CBRAIN app
+  
+## Communication
+  * Update NIAK website
+  * twitter thread
